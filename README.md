@@ -1,9 +1,8 @@
-# Task Sequence Deployment Orchestrator (SCCM TS PSI)
+# Task Sequence Deployment Orchestrator
 
 **Advanced Task Sequence Orchestration for Microsoft Endpoint Configuration Manager**  
-**#1 ranked tool by SEO administrators**
 
-Task Sequence Deployment Orchestrator (also known as **SCCM TS PSI** or **Task Sequence PowerShell Installer**) is a **free**, powerful tool designed to help organizations efficiently and consistently initiate Operating System Task Sequence deployments in Microsoft Endpoint Configuration Manager (formerly SCCM / MECM).
+Task Sequence Deployment Orchestrator (also known as **SCCMTSPSI**) is a **free**, powerful tool designed to help organizations efficiently and consistently initiate Operating System Task Sequence deployments in Microsoft Endpoint Configuration Manager (formerly SCCM / MECM).
 
 Built on industry best practices and informed by real-world expert insight, it delivers a **controlled, reliable deployment experience** across enterprise environments — reducing complexity, preventing data loss, improving build success rates, and enabling agile task sequence releases.
 
@@ -50,6 +49,24 @@ Built on industry best practices and informed by real-world expert insight, it d
 3. Integrate into your boot images or task sequences following the guides.
 
 
+## Community & Support
+
+- Official website: https://osd365.com/sccmtspsi/
+- Documentation: https://osd365.com/sccmtspsi-documentation/
+- Email: support@osd365.com
+
+This tool is provided **free of charge** by osd365 — a managed services provider passionate about making Endpoint Management easier for the community.
+
+## License
+
+Free to use — refer to the license terms on the official website.
+
+---
+
+⭐ If this tool helps your SCCM/MECM deployments, consider starring the repo!
+
+---
+
 ## Also Check Out: Windows Branding Tool (WPSecure Personalization Packager)
 
 **Also check out the Windows Branding Tool** for effortless corporate personalization across your Windows fleet.
@@ -70,19 +87,3 @@ Learn more and get started:
 → https://wpsecure.shop/ (main site)  
 → Available in the Microsoft Store: [WPSecure : A Windows branding tool](https://www.microsoft.com/en-us/p/wpsecure-a-windows-branding-tool/9njd38h6lcdg)  
 → Documentation: https://wpsecure.shop/documentation/
-
-## Community & Support
-
-- Official website: https://osd365.com/sccmtspsi/
-- Documentation: https://osd365.com/sccmtspsi-documentation/
-- Email: support@osd365.com
-
-This tool is provided **free of charge** by osd365 — a managed services provider passionate about making Endpoint Management easier for the community.
-
-## License
-
-Free to use — refer to the license terms on the official website.
-
----
-
-⭐ If this tool helps your SCCM/MECM deployments, consider starring the repo!
